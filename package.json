@@ -3,9 +3,6 @@
     "version": "0.0.1",
     "description": "This component is for React",
     "main": "build/index.js",
-    "peerDependencies": {
-      "react": "^15.5.4"
-    },
     "dependencies": {
       "react": "^15.5.4",
       "webpack": "^2.6.1",
