@@ -1,12 +1,14 @@
 {
-    "name": "goten-paginator",
+    "name": "react-paginator",
     "version": "0.0.1",
-    "description": "This component is for React",
+    "description": "Put a description here",
     "main": "build/index.js",
+    "peerDependencies": {
+      "react": "^15.5.4"
+    },
     "dependencies": {
       "react": "^15.5.4",
-      "webpack": "^2.6.1",
-      "react-ultimate-pagination": "^1.2.0"
+      "webpack": "^2.6.1"
     },
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1",
@@ -14,8 +16,8 @@
       "build": "webpack"
     },
     "author": {
-      "name": "Jon Colque",
-      "email": "joncolque@gmail.com"
+      "name": "Your name",
+      "email": "your email"
     },
     "devDependencies": {
       "babel-cli": "^6.24.1",
